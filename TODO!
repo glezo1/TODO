@@ -4,3 +4,9 @@ wifi_gps inferer
 
 http, col ip(int), ip(string), ban_seconds.
 http etl
+
+crawler
+  new parsedurl
+  new queueset
+  check why on earth, when session is unfinished, wont_visited grows as hell.
+  
