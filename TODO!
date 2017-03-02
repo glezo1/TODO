@@ -2,6 +2,12 @@
 systemcommandexecutor
   boolean parameter "only_black_and_white"
 
+shellinabox
+  both http and https
+  
+php-proxy
+  https
+
 wifi_gps_locator:
   weighted algorithm. average of decibels?
 
