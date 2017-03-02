@@ -1,4 +1,7 @@
 
+systemcommandexecutor
+  boolean parameter "only_black_and_white"
+
 wifi_gps_locator:
   weighted algorithm. average of decibels?
 
