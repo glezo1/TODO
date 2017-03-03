@@ -16,11 +16,6 @@ php-proxy
 wifi_gps_locator:
   weighted algorithm. average of decibels?
 
-http, col ip(int), ip(string), ban_seconds.
-http etl
-
 crawler
-  new parsedurl
-  new queueset
-  check why on earth, when session is unfinished, wont_visited grows as hell.
+  estimated time
   
