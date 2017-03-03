@@ -1,4 +1,9 @@
 
+DB
+  backup & restore
+  ubuntu, no pae
+  nat
+  
 systemcommandexecutor
   boolean parameter "only_black_and_white"
 
