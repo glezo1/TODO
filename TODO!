@@ -4,8 +4,8 @@ DB
   ubuntu, no pae
   nat
   
-systemcommandexecutor
-  boolean parameter "only_black_and_white"
+htmlparser
+  dir-300: property with no value, check if it works as is.
 
 shellinabox
   both http and https
@@ -19,4 +19,3 @@ wifi_gps_locator:
 crawler
   estimated time
   
-iprange (factory)
