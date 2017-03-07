@@ -10,6 +10,9 @@ htmlparser
   
 upload cypher package
 
+rename google_wrapper to google_search_wrapper
+google_translate_wrapper? check if possible: htmlunit.asxml() -> google_translate(english), honouring the html itself.
+
 shellinabox
   both http and https
   
