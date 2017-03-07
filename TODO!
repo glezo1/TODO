@@ -8,8 +8,6 @@ htmlparser
   dir-300: property with no value, check if it works as is.
   try to parse: <td noWrap align="right">Firmware Version&nbsp;:&nbsp;1.03&nbsp;</td>  it's not getting the properties properly
   
-update stringutils (pre-finish true_trim)
-
 upload cypher package
 
 shellinabox
