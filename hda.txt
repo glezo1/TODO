@@ -3,8 +3,9 @@
 existe un observador O
 existe un router X
 
-el observador O, en la posicion p1, ve al router X con una "potencia" (medida del 0 al 100, siendo el 100 mucha potencia, ergo muy cercano) de 90
-el observador O, en la posicion p2, ve al router X con una "potencia" (medida del 0 al 100, siendo el 100 mucha potencia, ergo muy cercano) de 70
+"Potencia": medición del 0 al 100. 100 está muy cerca, 1 está lejísimos.
+el observador O, en la posicion p1, ve al router X con una "potencia" de 90
+el observador O, en la posicion p2, ve al router X con una "potencia" de 70
 
 ¿dónde está el router?
 
