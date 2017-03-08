@@ -1,0 +1,22 @@
+
+
+existe un observador O
+existe un router X
+
+el observador O, en la posicion p1, ve al router X con una "potencia" (medida del 0 al 100, siendo el 100 mucha potencia, ergo muy cercano) de 90
+el observador O, en la posicion p2, ve al router X con una "potencia" (medida del 0 al 100, siendo el 100 mucha potencia, ergo muy cercano) de 70
+
+¿dónde está el router?
+
+ALGORITMO I: media aritmética sin ponderar		[como son distancias "de router", pequeñas por definición, consideramos que es posible hacer medias de coordenadas gps]
+	latitud		=(p1.lat + p1.lat) / 2;
+	longitud	=(p1.lon + p1.lon) / 2;
+	altitud		=(p1.alt + p1.alt) / 2;
+	
+ALGORITMO II: media aritmética ponderada		[se pondera más fuertemente la observación en el punto p1, ya que tenía mayor potencia]
+	si hacemos algo como 
+	latitud		=(90/160*p1.lat + 70/160*p1.lat) / 2		
+	
+	entonces, si estamos en el hemisferio norte, SIEMPRE estaríamos desplazandonos hacia el norte, 
+	aunque el router esté situado más al sur que p1 y que p2
+															
