@@ -6,9 +6,6 @@ DB
   ubuntu, no pae
   nat
 
-dl300_600
-  fijar el puerto al 8080, evitando el loop
-
 routerfinder
   when inserting a router for the first time, it seems to crash when inserting into router_geoip_all_views.
   check routers in reouter_geoip missing in routger_geoip_all_views, there must be, at least, 2 rows.
