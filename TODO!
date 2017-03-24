@@ -10,10 +10,6 @@ routerfinder
   when inserting a router for the first time, it seems to crash when inserting into router_geoip_all_views.
   check routers in reouter_geoip missing in routger_geoip_all_views, there must be, at least, 2 rows.
 
-htmlparser
-  dir-300: property with no value, check if it works as is.
-  try to parse: <td noWrap align="right">Firmware Version&nbsp;:&nbsp;1.03&nbsp;</td>  it's not getting the properties properly
-  
 upload cypher package
 
 rename google_wrapper to google_search_wrapper
