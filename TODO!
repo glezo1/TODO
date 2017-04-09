@@ -1,6 +1,10 @@
 
 mysql_backup [croa.]
 
+expect
+   ->WashInterface with filter
+   ->ReaverInterface, -p, p2_index set to 2
+
 hd caddy    ~19 april
 uprocessor
 
