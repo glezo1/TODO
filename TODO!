@@ -6,7 +6,6 @@ expect
    ->ReaverInterface, -p, p2_index set to 2
 
 hd caddy    ~19 april
-uprocessor
 
 
 caddy
@@ -15,7 +14,7 @@ caddy
    
 
 DB
-  backup & restore
+  backup & restore [expect with conf file!]
   ubuntu, no pae
   nat
 
