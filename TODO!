@@ -4,13 +4,11 @@ mysql_backup [croa.]
 tr
    quitar poopen
    cf. cadenas, clase provider
+   cf. absolutamente todo
+   intentar version python compiulable a exe sin intérprete
 
-intentar version python compiulable a exe sin intérprete
-
-resubir ParsedUrl, GhettoHtmlParser
 
 expect
-   ->WashInterface with filter
    ->ReaverInterface, -p, p2_index set to 2
 
 hd caddy    ~19 april
